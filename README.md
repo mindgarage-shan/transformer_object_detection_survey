@@ -171,6 +171,16 @@ arxiv 2022.
 
 ## 2.3. Object Queries Modifications
 <p>
+<font size=3><b>Efficient DETR: Improving End-to-End Object Detector with Dense Prior.</b></font>
+<br>
+<font size=2>Zhuyu Yao, Jiangbo Ai, Boxun Li, Chi Zhang.</font>
+<br>
+<font size=2>arxiv 2021.</font>
+<a href='https://arxiv.org/abs/2104.01318'>[paper]</a>
+<!-- <a href='https://github.com/dddzg/up-detr'>[code]</a>     -->
+</p>
+
+<p>
 <font size=3><b>DETRs with Collaborative Hybrid Assignments Training
 </b></font>
 <br>
