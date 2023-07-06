@@ -249,6 +249,15 @@ arxiv 2022.
 <font size=2>arxiv 2022.</font>
 <a href='https://arxiv.org/abs/2207.13085'>[paper]</a> 
 </p>
+
+<p>
+<font size=3><b>Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion</b></font>
+<br>
+<font size=2>Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Jiaxing Huang, Kaiwen Cui, Shijian Lu, Eric P. Xing</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2207.14172'>[paper]</a> <a href='https://github.com/ZhangGongjie/SAM-DETR'>[code]</a>  
+</p>
 ########################################################
 
 <p>
