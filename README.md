@@ -240,6 +240,15 @@ arxiv 2022.
 <font size=2>arxiv 2022.</font>
 <a href='https://arxiv.org/abs/2207.13080'>[paper]</a> <a href='https://github.com/HDETR/H-Deformable-DETR'>[code]</a>    
 </p>
+
+<p>
+<font size=3><b>Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment</b></font>
+<br>
+<font size=2>Qiang Chen, Xiaokang Chen, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Gang Zeng, Jingdong Wang</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2207.13085'>[paper]</a> 
+</p>
 ########################################################
 
 <p>
