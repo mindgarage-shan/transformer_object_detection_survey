@@ -317,6 +317,16 @@ arxiv 2022.
 <a href='https://arxiv.org/abs/2211.12860'>[paper]</a> <a href='https://github.com/Sense-X/Co-DETR'>[code]</a>  
 </p>
 
+<p>
+<font size=3><b>Dense Distinct Query for End-to-End Object Detection
+</b></font>
+<br>
+<font size=2>Shilong Zhang, Xinjiang Wang, Jiaqi Wang, Jiangmiao Pang, Chengqi Lyu, Wenwei Zhang, Ping Luo, Kai Chen.</font>
+<br>
+<font size=2>CVPR 2023.</font>
+<a href='https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Dense_Distinct_Query_for_End-to-End_Object_Detection_CVPR_2023_paper.pdf'>[paper]</a> <a href='https://github.com/jshilong/DDQ'>[code]</a>  
+</p>
+
 ## 3. Performance Analysis <a name="3"></a>
 
 * Comparison of all DETR-based detection transformers on COCO Val set (a) Performance comparison of detection transformers using a ResNet-50 backbone w.r.t. training epochs. Networks labelled with DC5 take a dilated feature-map. Other networks consider multi-scale features. (b) Performance comparison of detection transformers w.r.t. model size.
