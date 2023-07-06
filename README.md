@@ -43,7 +43,7 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 <img src="images/complete.png" width="950px"/>
 
 
-# 2. DEtection TRansformer (DETR) and its improvements
+# 2. DEtection TRansformer (DETR) and its improvements <a name="2"></a>
 
 # DETR
 <p>
@@ -75,7 +75,7 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 <a href='https://openreview.net/pdf?id=yjMQuLLcGWK'>[paper]</a>
 </p>
 
-## 2.2. Pre-training Mechanism Modifications
+## 2.2. Pre-training Mechanism Modifications <a name="2.2"></a>
 <p>
 <font size=3><b>UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.</b></font>
 <br>
@@ -113,7 +113,7 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 <a href='https://arxiv.org/abs/2211.03594'>[paper]</a> 
 </p>
 
-## 2.3. Attention Mechanism Modifications
+## 2.3. Attention Mechanism Modifications <a name="2.3"></a>
 <p>
 <font size=3><b>Deformable DETR: Deformable Transformers for End-to-End Object Detection.</b></font>
 <br>
@@ -215,7 +215,7 @@ arxiv 2022.
 <a href='https://arxiv.org/abs/2112.04632'>[paper]</a> <a href='https://github.com/zhechen/Deformable-DETR-REGO'>[code]</a>    
 </p>
 
-## 2.4. Object Queries Modifications
+## 2.4. Object Queries Modifications <a name="2.4"></a>
 <p>
 <font size=3><b>Efficient DETR: Improving End-to-End Object Detector with Dense Prior.</b></font>
 <br>
@@ -317,7 +317,7 @@ arxiv 2022.
 <a href='https://arxiv.org/abs/2211.12860'>[paper]</a> <a href='https://github.com/Sense-X/Co-DETR'>[code]</a>  
 </p>
 
-## 3. Performance Analysis
+## 3. Performance Analysis <a name="3"></a>
 
 * Comparison of all DETR-based detection transformers on COCO Val set (a) Performance comparison of detection transformers using a ResNet-50 backbone w.r.t. training epochs. Networks labelled with DC5 take a dilated feature-map. Other networks consider multi-scale features. (b) Performance comparison of detection transformers w.r.t. model size.
 
