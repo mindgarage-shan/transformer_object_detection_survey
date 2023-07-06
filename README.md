@@ -21,7 +21,7 @@ If you know of a paper that addresses transformer-based object detection and is 
 # Table of Contents  
 1. [Statistics overview](#1)
 2. [DETR and its improvements](#2)  
-    2.1 [Background Modifications](#2.1)  <br>
+    2.1 [Backbone Modifications](#2.1)  <br>
     2.2 [Pre-training Mechanism Modifications](#2.2)  <br>
     2.3 [Attention Mechanism Modifications](#2.3) <br>
     2.4 [Object Queries Modifications](#2.4)     
@@ -47,7 +47,7 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 </p>
 
 # Improvements
-## 2.1. Background Modifications
+## 2.1. Backbone Modifications
 <p>
 <font size=3><b>WB-DETR: Transformer-Based Detector without Backbone.</b></font>
 <br>
