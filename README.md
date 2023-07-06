@@ -270,6 +270,17 @@ arxiv 2022.
 <font size=2>arxiv 2022.</font>
 <a href='https://arxiv.org/abs/2207.14172'>[paper]</a> <a href='https://github.com/ZhangGongjie/SAM-DETR'>[code]</a>  
 </p>
+
+<p>
+<font size=3><b>DETRs with Collaborative Hybrid Assignments Training
+</b></font>
+<br>
+<font size=2>Zhuofan Zong, Guanglu Song, Yu Liu.</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2211.12860'>[paper]</a> <a href='https://github.com/Sense-X/Co-DETR'>[code]</a>  
+</p>
+
 ########################################################
 
 <p>
