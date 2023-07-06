@@ -1,11 +1,4 @@
 # A Repository of the Papers Addressing improvements in DEtection TRansformer (DETR)
-
-===========================================================================
-
-[Tahira Shehzadi](https://av.dfki.de/members/shezadi/), [Khurram Azeem Hashmi](https://av.dfki.de/members/hashmi/), [Didier Stricker](https://av.dfki.de/members/stricker/),  [Muhammad Zeshan Afzal](https://av.dfki.de/members/afzal/)
-
-===========================================================================
-
 This repository provides an up-to-date the list of studies addressing improvements in DEtection TRansformer (DETR). It follows the taxonomy provided in the following paper (please cite the paper if you benefit from this repository):
 
 T. Shehzadi, K A. Hashmi, D. Stricker, M Z. Afzal, "Object Detection with Transformers: A Review"[[preprint]](https://arxiv.org/abs/2306.04670)
@@ -24,8 +17,6 @@ BibTeX entry:
 
 ## How to request addition of a paper
 If you know of a paper that addresses an transformer-based object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request. 
-
-===========================================================================
 
 # Table of Contents  
 
