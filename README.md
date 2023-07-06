@@ -6,9 +6,24 @@
 
 ===========================================================================
 
-It is very welcome to send me your saliency maps if your work is published in top-level conference. 
+This repository provides an up-to-date the list of studies addressing improvements in DEtection TRansformer (DETR). It follows the taxonomy provided in the following paper (please cite the paper if you benefit from this repository):
 
-If I miss your work, please let me know and I'll add it.
+T. Shehzadi, K A. Hashmi, D. Stricker, M Z. Afzal, "Object Detection with Transformers: A Review"[[preprint]](https://arxiv.org/abs/2306.04670)
+
+BibTeX entry:
+```
+@misc{shehzadi2023object,
+      title={Object Detection with Transformers: A Review}, 
+      author={Tahira Shehzadi and Khurram Azeem Hashmi and Didier Stricker and Muhammad Zeshan Afzal},
+      year={2023},
+      eprint={2306.04670},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+## How to request addition of a paper
+If you know of a paper that addresses an transformer-based object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request. 
 
 ===========================================================================
 
