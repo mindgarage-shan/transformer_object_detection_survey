@@ -189,6 +189,43 @@ arxiv 2022.
 <a href='https://arxiv.org/abs/2108.06152v2'>[paper]</a> <a href='https://github.com/atten4vis/conditionaldetr'>[code]</a> <a href='https://github.com/IDEA-Research/detrex'>[detrex code]</a>  
 </p>
 
+<p>
+<font size=3><b>Anchor DETR: Query Design for Transformer-Based Object Detection.</b></font>
+<br>
+<font size=2>Yingming Wang, Xiangyu Zhang, Tong Yang, Jian Sun.</font>
+<br>
+<font size=2>AAAI 2022.</font>
+<a href='https://arxiv.org/abs/2109.07107v2'>[paper]</a> <a href='https://github.com/megvii-research/AnchorDETR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.</b></font>
+<br>
+<font size=2>Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.</font>
+<br>
+<font size=2>ICLR 2022.</font>
+<a href='https://arxiv.org/abs/2201.12329'>[paper]</a> <a href='https://github.com/SlongLiu/DAB-DETR'>[code]</a> <a href='https://github.com/IDEA-Research/detrex'>[detrex code]</a>    
+</p>
+
+<p>
+<font size=3><b>DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.</b></font>
+<br>
+<font size=2>Feng Li*, Hao Zhang*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2203.01305'>[paper]</a> <a href='https://github.com/FengLi-ust/DN-DETR'>[code]</a> <a href='https://github.com/IDEA-Research/detrex'>[detrex code]</a>    
+</p>
+
+<p>
+<font size=3><b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b></font>
+<br>
+<font size=2>Hao Zhang*, Feng Li*, Shilong Liu*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
+<br>
+arxiv 2022.
+<a href='https://arxiv.org/abs/2203.03605'>[paper]</a> <a href='https://github.com/IDEACVR/DINO'>[code]</a> <a href='https://github.com/IDEA-Research/detrex'>[detrex code]</a> 
+</p>
+
+########################################################
 
 <p>
 <font size=3><b>DETRs with Collaborative Hybrid Assignments Training
