@@ -20,20 +20,24 @@ If you know of a paper that addresses an transformer-based object detection and 
 
 # Table of Contents  
 
-[1. Statistics overview](#so)  
-[2. DETR and its improvements](#nlp)   
-[3. Performance Analysis](#pa) <br/>
-
-## Statistics overview
+# Table of Contents (Follows the taxonomy in the paper)
+1. [Statistics overview](#1)
+2. [DETR and its improvements](#2)  
+    2.1 [Background Modifications](#2.1)  <br>
+    2.2 [Attention Mechanism Modifications](#2.2) <br>
+    2.3 [Object Queries Modifications](#2.3)     
+4. [Performance Analysis](#3)  
+  
+## 1. Statistics overview
 
 Statistics overview of the literature on Transformers. (a) Number of citations per year of Transformer papers. (b) Citations in the last 12 months on Detection Transformer papers. (c) Modification percentage in original DEtection TRansformer (DETR) to improve performance and training convergence (d) Number of peer-reviewed publications per year that used DETR as a baseline. (e) A non-exhaustive timeline overview of important developments in DETR for detection tasks.
 
 <img src="images/complete.png" width="950px"/>
 
 
-# DEtection TRansformer (DETR) and its improvements
+# 2. DEtection TRansformer (DETR) and its improvements
 
-## DETR
+# DETR
 <p>
 <font size=3><a href='https://alcinos.github.io/detr_page/'><b>[DETR] End-to-End Object Detection with Transformers.</b></a></font>
 <br>
@@ -43,7 +47,10 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 <a href='https://arxiv.org/abs/2005.12872'>[paper]</a> <a href='https://github.com/facebookresearch/detr'>[code]</a> <a href='https://github.com/IDEA-Research/detrex'>[detrex code]</a>    
 </p>
 
-## Improvements
+# Improvements
+## 2.1. Background Modifications
+## 2.2. Attention Mechanism Modifications
+## 2.3. Object Queries Modifications
 <p>
 <font size=3><b>DETRs with Collaborative Hybrid Assignments Training
 </b></font>
@@ -306,7 +313,7 @@ arxiv 2022.
 <a href='https://arxiv.org/abs/2010.04159v4'>[paper]</a> <a href='https://github.com/fundamentalvision/Deformable-DETR'>[code]</a> <a href='https://github.com/IDEA-Research/detrex'>[detrex code]</a>    
 </p>
 
-## Performance Analysis
+## 3. Performance Analysis
 
 * Comparison of all DETR-based detection transformers on COCO Val set (a) Performance comparison of detection transformers using a ResNet-50 backbone w.r.t. training epochs. Networks labelled with DC5 take a dilated feature-map. Other networks consider multi-scale features. (b) Performance comparison of detection transformers w.r.t. model size.
 
