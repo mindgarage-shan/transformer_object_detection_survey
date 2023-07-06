@@ -1,7 +1,16 @@
-# A Repository of the Papers Addressing improvements in DEtection TRansformer (DETR)
-This repository provides an up-to-date the list of studies addressing improvements in DEtection TRansformer (DETR). It follows the taxonomy provided in the following paper (please cite the paper if you benefit from this repository):
+[![arXiv](https://img.shields.io/badge/arXiv-2306.04670-b31b1b.svg)](https://arxiv.org/abs/2306.04670)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/mindgarage-shan/transformer_object_detection_survey/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/mindgarage-shan/transformer_object_detection_survey)](https://gitHub.com/mindgarage-shan/transformer_object_detection_survey/issues/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-T. Shehzadi, K A. Hashmi, D. Stricker, M Z. Afzal, "Object Detection with Transformers: A Review" [[arXiv]](https://arxiv.org/abs/2306.04670)
+# Object Detection with Transformers: A Review
+This repository provides an up-to-date list of studies addressing improvements in DEtection TRansformer (DETR). It follows the taxonomy provided in the following paper (please cite the paper if you benefit from this repository):
+
+T. Shehzadi, K A. Hashmi, D. Stricker, M Z. Afzal, "Object Detection with Transformers: A Review" 
+
+Preprint :arrow_down:
+
+[![arXiv](https://img.shields.io/badge/arXiv-2306.04670-b31b1b.svg)](https://arxiv.org/abs/2306.04670)
 
 BibTeX entry:
 ```
