@@ -68,6 +68,34 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 </p>
 
 ## 2.2. Attention Mechanism Modifications
+<p>
+<font size=3><b>Deformable DETR: Deformable Transformers for End-to-End Object Detection.</b></font>
+<br>
+<font size=2>Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.</font>
+<br>
+<font size=2>ICLR 2021.</font>
+<a href='https://arxiv.org/abs/2010.04159v4'>[paper]</a> <a href='https://github.com/fundamentalvision/Deformable-DETR'>[code]</a> <a href='https://github.com/IDEA-Research/detrex'>[detrex code]</a>    
+</p>
+
+<p>
+<font size=3><b>Fast Convergence of DETR with Spatially Modulated Co-Attention.</b></font>
+<br>
+<font size=2>Peng Gao, Minghang Zheng, Xiaogang Wang, Jifeng Dai, Hongsheng Li .</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://arxiv.org/abs/2101.07448'>[paper]</a> <a href='https://github.com/gaopengcuhk/SMCA-DETR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>Rethinking Transformer-based Set Prediction for Object Detection.</b></font>
+<br>
+<font size=2>Zhiqing Sun, Shengcao Cao, Yiming Yang, Kris Kitani.</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://arxiv.org/abs/2011.10881'>[paper]</a> <a href='https://github.com/edward-sun/tsp-detection'>[code]</a>    
+</p>
+
+
 ## 2.3. Object Queries Modifications
 <p>
 <font size=3><b>DETRs with Collaborative Hybrid Assignments Training
