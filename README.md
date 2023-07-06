@@ -1,7 +1,7 @@
 # A Repository of the Papers Addressing improvements in DEtection TRansformer (DETR)
 This repository provides an up-to-date the list of studies addressing improvements in DEtection TRansformer (DETR). It follows the taxonomy provided in the following paper (please cite the paper if you benefit from this repository):
 
-T. Shehzadi, K A. Hashmi, D. Stricker, M Z. Afzal, "Object Detection with Transformers: A Review"[[preprint]](https://arxiv.org/abs/2306.04670)
+T. Shehzadi, K A. Hashmi, D. Stricker, M Z. Afzal, "Object Detection with Transformers: A Review" [[arXiv]](https://arxiv.org/abs/2306.04670)
 
 BibTeX entry:
 ```
