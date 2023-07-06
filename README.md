@@ -36,7 +36,7 @@ If you know of a paper that addresses transformer-based object detection and is 
     2.4 [Object Queries Modifications](#2.4)     
 4. [Performance Analysis](#3)  
   
-## 1. Statistics overview
+## 1. Statistics overview 
 
 Statistics overview of the literature on Transformers. (a) Number of citations per year of Transformer papers. (b) Citations in the last 12 months on Detection Transformer papers. (c) Modification percentage in original DEtection TRansformer (DETR) to improve performance and training convergence (d) Number of peer-reviewed publications per year that used DETR as a baseline. (e) A non-exhaustive timeline overview of important developments in DETR for detection tasks.
 
@@ -56,7 +56,7 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 </p>
 
 # Improvements
-## 2.1. Backbone Modifications
+## 2.1. Backbone Modifications <a name="2.1"></a>
 <p>
 <font size=3><b>WB-DETR: Transformer-Based Detector without Backbone.</b></font>
 <br>
