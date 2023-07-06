@@ -67,6 +67,16 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 </p>
 
 ## 2.2. Pre-training Mechanism Modifications
+<p>
+<font size=3><b>Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining
+</b></font>
+<br>
+<font size=2>Qiang Chen, Jian Wang, Chuchu Han, Shan Zhang, Zexian Li, Xiaokang Chen, Jiahui Chen, Xiaodi Wang, Shuming Han, Gang Zhang, Haocheng Feng, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2211.03594'>[paper]</a> 
+</p>
+
 ## 2.3. Attention Mechanism Modifications
 <p>
 <font size=3><b>Deformable DETR: Deformable Transformers for End-to-End Object Detection.</b></font>
