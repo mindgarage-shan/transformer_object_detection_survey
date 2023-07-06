@@ -19,8 +19,6 @@ BibTeX entry:
 If you know of a paper that addresses an transformer-based object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request. 
 
 # Table of Contents  
-
-# Table of Contents (Follows the taxonomy in the paper)
 1. [Statistics overview](#1)
 2. [DETR and its improvements](#2)  
     2.1 [Background Modifications](#2.1)  <br>
