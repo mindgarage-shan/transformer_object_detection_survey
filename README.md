@@ -49,6 +49,24 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 
 # Improvements
 ## 2.1. Background Modifications
+<p>
+<font size=3><b>WB-DETR: Transformer-Based Detector without Backbone.</b></font>
+<br>
+<font size=2>Fanfan Liu, Haoran Wei, Wenzhe Zhao, Guozhen Li, Jingquan Peng, Zihao Li.</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.pdf'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>FP-DETR: Detection Transformer Advanced by Fully Pre-training.</b></font>
+<br>
+<font size=2>Wen Wang, Yang Cao, Jing Zhang, Dacheng Tao.</font>
+<br>
+<font size=2>ICLR 2022.</font>
+<a href='https://openreview.net/pdf?id=yjMQuLLcGWK'>[paper]</a>
+</p>
+
 ## 2.2. Attention Mechanism Modifications
 ## 2.3. Object Queries Modifications
 <p>
