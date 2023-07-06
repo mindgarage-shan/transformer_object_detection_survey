@@ -116,6 +116,15 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 </p>
 
 <p>
+<font size=3><b>Anchor DETR: Query Design for Transformer-Based Object Detection.</b></font>
+<br>
+<font size=2>Yingming Wang, Xiangyu Zhang, Tong Yang, Jian Sun.</font>
+<br>
+<font size=2>AAAI 2022.</font>
+<a href='https://arxiv.org/abs/2109.07107v2'>[paper]</a> <a href='https://github.com/megvii-research/AnchorDETR'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity.</b></font>
 <br>
 <font size=2>Byungseok Roh, JaeWoong Shin, Wuhyun Shin, Saehoon Kim.</font>
@@ -124,14 +133,7 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 <a href='https://arxiv.org/abs/2111.14330v2'>[paper]</a> <a href='https://github.com/kakaobrain/sparse-detr'>[code]</a>    
 </p>
 
-<p>
-<font size=3><b>Anchor DETR: Query Design for Transformer-Based Object Detection.</b></font>
-<br>
-<font size=2>Yingming Wang, Xiangyu Zhang, Tong Yang, Jian Sun.</font>
-<br>
-<font size=2>AAAI 2022.</font>
-<a href='https://arxiv.org/abs/2109.07107v2'>[paper]</a> <a href='https://github.com/megvii-research/AnchorDETR'>[code]</a>    
-</p>
+
 
 ## 2.3. Object Queries Modifications
 <p>
