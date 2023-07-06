@@ -22,7 +22,7 @@ If you know of a paper that addresses an transformer-based object detection and 
 1. [Statistics overview](#1)
 2. [DETR and its improvements](#2)  
     2.1 [Background Modifications](#2.1)  <br>
-    2.2 [Background Modifications](#2.2)  <br>
+    2.2 [Pre-training Mechanism Modifications](#2.2)  <br>
     2.3 [Attention Mechanism Modifications](#2.3) <br>
     2.4 [Object Queries Modifications](#2.4)     
 4. [Performance Analysis](#3)  
@@ -66,7 +66,7 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 <a href='https://openreview.net/pdf?id=yjMQuLLcGWK'>[paper]</a>
 </p>
 
-## 2.2. Background Modifications
+## 2.2. Pre-training Mechanism Modifications
 ## 2.3. Attention Mechanism Modifications
 <p>
 <font size=3><b>Deformable DETR: Deformable Transformers for End-to-End Object Detection.</b></font>
