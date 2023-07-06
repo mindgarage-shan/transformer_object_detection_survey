@@ -231,6 +231,15 @@ arxiv 2022.
 <font size=2>arxiv 2022.</font>
 <a href='https://arxiv.org/pdf/2206.02777.pdf'>[paper]</a> <a href='https://github.com/IDEACVR/MaskDINO'>[code]</a>    
 </p>
+
+<p>
+<font size=3><b>DETRs with Hybrid Matching.</b></font>
+<br>
+<font size=2>Ding Jia, Yuhui Yuan, Haodi He, Xiaopei Wu, Haojun Yu, Weihong Lin, Lei Sun, Chao Zhang, Han Hu</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2207.13080'>[paper]</a> <a href='https://github.com/HDETR/H-Deformable-DETR'>[code]</a>    
+</p>
 ########################################################
 
 <p>
