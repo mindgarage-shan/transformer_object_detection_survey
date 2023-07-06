@@ -16,7 +16,7 @@ BibTeX entry:
 ```
 
 ## How to request addition of a paper
-If you know of a paper that addresses an transformer-based object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request. 
+If you know of a paper that addresses transformer-based object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
 
 # Table of Contents  
 1. [Statistics overview](#1)
