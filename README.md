@@ -133,7 +133,41 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 <a href='https://arxiv.org/abs/2111.14330v2'>[paper]</a> <a href='https://github.com/kakaobrain/sparse-detr'>[code]</a>    
 </p>
 
+<p>
+<b>D^2ETR: Decoder-Only DETR with Computationally Efficient Cross-Scale Attention.</b> 
+<br>
+<font size=2>Junyu Lin, Xiaofeng Mao, Yuefeng Chen, Lei Xu, Yuan He, Hui Xue</font>
+<br>
+arxiv 2022.
+<a href='https://arxiv.org/abs/2203.00860'>[paper]</a> <a href='https://github.com/alibaba/easyrobust/tree/main/ddetr'>[code]</a> 
+</p>
 
+<p>
+<font size=3><b>CF-DETR: Coarse-to-Fine Transformers for End-to-End Object Detection.</b></font>
+<br>
+<font size=2>Xipeng Cao, Peng Yuan, Bailan Feng, Kun Niu.</font>
+<br>
+<font size=2>AAAI 2022.</font>
+<a href='https://www.aaai.org/AAAI22Papers/AAAI-6312.XipengC.pdf'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>AdaMixer: A Fast-Converging Query-Based Object Detector.</b></font>
+<br>
+<font size=2>Ziteng Gao, Limin Wang, Bing Han, Sheng Guo.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2203.16507'>[paper]</a> <a href='https://github.com/MCG-NJU/AdaMixer'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>Recurrent Glimpse-based Decoder for Detection with Transformer.</b></font>
+<br>
+<font size=2>Zhe Chen, Jing Zhang, Dacheng Tao.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2112.04632'>[paper]</a> <a href='https://github.com/zhechen/Deformable-DETR-REGO'>[code]</a>    
+</p>
 
 ## 2.3. Object Queries Modifications
 <p>
