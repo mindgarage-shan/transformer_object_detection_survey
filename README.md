@@ -330,7 +330,7 @@ arxiv 2022.
 * Benchmark Results
 <p align="center"> <img src="images/Benchmark.png" width="95%"> </p>
 
-### BibTeX entry:
+### Citation
 ```
 @misc{shehzadi2023object,
       title={Object Detection with Transformers: A Review}, 
@@ -341,6 +341,9 @@ arxiv 2022.
       primaryClass={cs.CV}
 }
 ```
+
+### Updates
+* 14/7/2023: Initial release
 
 ### Other resource
 - [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
