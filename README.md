@@ -18,6 +18,13 @@ Preprint :arrow_down:
 ## How to request addition of a paper
 If you know of a paper that addresses transformer-based object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
 
+## Introduction
+We present a comprehensive review of 21 recently proposed advancements in the original DETR model. It covers foundational modules of DETR and its recent enhancements, such as modifications to the backbone structure, query design strategies, and refinements to attention mechanisms. It also presents comparative analysis across various detection transformers, evaluating their performance and network architectures.
+
+Please feel free to <a href="mailto:Tahira.shehzadi@dfki.de">contact me</a> or [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) If you know of a paper that addresses transformer-based object detection and is not on this repository.
+
+ We will update this page on a regular basis! So stay tuned~ :smiley::smiley::smiley:
+
 # Table of Contents  
 1. [Statistics overview](#1)
 2. [DETR and its improvements](#2)  
