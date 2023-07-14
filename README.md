@@ -53,7 +53,7 @@ Statistics overview of the literature on Transformers. (a) Number of citations p
 </p>
 
 # Improvements
-<p align="center"> <img src="images/Improvements.png" width="95%"> </p>
+<p align="center"> <img src="images/Improvements.png" width="98%"> </p>
 ## 2.1. Backbone Modifications <a name="2.1"></a>
 <p>
 <font size=3><b>WB-DETR: Transformer-Based Detector without Backbone.</b></font>
