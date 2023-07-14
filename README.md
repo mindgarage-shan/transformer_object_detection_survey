@@ -14,17 +14,6 @@ Preprint :arrow_down:
 
 <p align="center"> <img src="images/Transformer.png" width="80%"> </p>
 
-BibTeX entry:
-```
-@misc{shehzadi2023object,
-      title={Object Detection with Transformers: A Review}, 
-      author={Tahira Shehzadi and Khurram Azeem Hashmi and Didier Stricker and Muhammad Zeshan Afzal},
-      year={2023},
-      eprint={2306.04670},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
 
 ## How to request addition of a paper
 If you know of a paper that addresses transformer-based object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
@@ -340,6 +329,18 @@ arxiv 2022.
 
 * Benchmark Results
 <p align="center"> <img src="images/Benchmark.png" width="95%"> </p>
+
+### BibTeX entry:
+```
+@misc{shehzadi2023object,
+      title={Object Detection with Transformers: A Review}, 
+      author={Tahira Shehzadi and Khurram Azeem Hashmi and Didier Stricker and Muhammad Zeshan Afzal},
+      year={2023},
+      eprint={2306.04670},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ### Other resource
 - [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
