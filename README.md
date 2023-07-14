@@ -336,11 +336,6 @@ arxiv 2022.
 * Comparison of  DETR-based detection transformers on COCO Val set for small, medium and large objects (a) Performance comparison of detection transformers on small objects. (b) Performance comparison of detection transformers on medium objects. (c) Performance comparison of detection transformers on large objects.
 <img src="images/Epoch-AP-S-M-L.png" width="900px"/>
 
-* Performance comparison of all DETR-based detection transformers on COCO minival set. Here, networks labelled with DC5 take a dilated feature map. The IoU threshold values are set to 0.5 and 0.75 for AP calculation and also calculate AP for small( APs), medium (APm) and large (APl) objects. + represents bounding-box refinement and ++
-denotes Deformable-DETR. ∗∗ indicates Efficient-DETR used 6-encoder layers and 1-decoder layer. S denotes Small, and B
-indicates Base. ‡ indicates model is Pre-trained on ImageNet-21k. All models use 300 queries, while DETR uses 100 object queries to the input of decoder network. The models with superscript ∗ use 3 pattern embeddings. The three best results are represented in red, blue, and green, respectively.
-<img src="images/Transformer Network Performance comparison.png" width="750px"/>
-
 ### Other resource
 - [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 - [Awesome-Detection-Transformer](https://github.com/IDEA-Research/awesome-detection-transformer)
