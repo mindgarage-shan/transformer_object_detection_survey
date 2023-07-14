@@ -338,6 +338,8 @@ arxiv 2022.
 * Comparison of  DETR-based detection transformers on COCO Val set for small, medium and large objects (a) Performance comparison of detection transformers on small objects. (b) Performance comparison of detection transformers on medium objects. (c) Performance comparison of detection transformers on large objects.
 <img src="images/Epoch-AP-S-M-L.png" width="900px"/>
 
+<p align="center"> <img src="images/Benchmark.png" width="95%"> </p>
+
 ### Other resource
 - [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 - [Awesome-Detection-Transformer](https://github.com/IDEA-Research/awesome-detection-transformer)
