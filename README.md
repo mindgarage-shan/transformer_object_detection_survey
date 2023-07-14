@@ -12,7 +12,7 @@ Preprint :arrow_down:
 
 [![arXiv](https://img.shields.io/badge/arXiv-2306.04670-b31b1b.svg)](https://arxiv.org/abs/2306.04670)
 
-<img src="images/Transformer.png" width="600px"/>
+<img src="images/Transformer.png" width="700px"/>
 
 BibTeX entry:
 ```
