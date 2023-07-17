@@ -22,7 +22,7 @@ We present a comprehensive review of 21 recently proposed advancements in the or
 
 Please feel free to contact <a href="mailto:Tahira.shehzadi@dfki.de">Tahira</a>, <a href="mailto:khurram_azeem.hashmi@dfki.de">Khurram</a> and <a href="mailto:Muhammad_Zeshan.Afzal@dfki.de">Shan</a> or [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) If you know of a paper that addresses transformer-based object detection and is not on this repository.
 
- We will update this page on a regular basis! So stay tuned~ :smiley::smiley::smiley:
+ We will update this page on a regular basis! So stay tuned~ :smiley:
 
 # Table of Contents  
 1. [Statistics overview](#1)
