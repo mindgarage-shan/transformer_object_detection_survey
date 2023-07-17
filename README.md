@@ -20,7 +20,7 @@ Preprint :arrow_down:
 ## Introduction
 We present a comprehensive review of 21 recently proposed advancements in the original DETR model. It covers foundational modules of DETR and its recent enhancements, such as modifications to the backbone structure, query design strategies, and refinements to attention mechanisms. It also presents comparative analysis across various detection transformers, evaluating their performance and network architectures.
 
-Please feel free to contact <a href="mailto:Tahira.shehzadi@dfki.de">Tahira</a>  and <a href="mailto:khurram_azeem.hashmi@dfki.de">Khurram</a> or [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) If you know of a paper that addresses transformer-based object detection and is not on this repository.
+Please feel free to contact <a href="mailto:Tahira.shehzadi@dfki.de">Tahira</a>, <a href="mailto:khurram_azeem.hashmi@dfki.de">Khurram</a> and <a href="mailto:Muhammad_Zeshan.Afzal@dfki.de">Shan</a> or [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) If you know of a paper that addresses transformer-based object detection and is not on this repository.
 
  We will update this page on a regular basis! So stay tuned~ :smiley::smiley::smiley:
 
